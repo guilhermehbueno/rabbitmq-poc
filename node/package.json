@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "0.0.0",
+  "description": "",
+  "main": "send.js",
+  "dependencies": {
+    "amqplib": "~0.2.0",
+    "when": "~3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
